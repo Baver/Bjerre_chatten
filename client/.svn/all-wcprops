@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/erich/!svn/ver/67/chat/client
+END
+help.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/erich/!svn/ver/57/chat/client/help.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/erich/!svn/ver/67/chat/client/Makefile
+END
+help.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/erich/!svn/ver/61/chat/client/help.h
+END
+client
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/erich/!svn/ver/61/chat/client/client
+END
+client.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/erich/!svn/ver/61/chat/client/client.c
+END
+client.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/erich/!svn/ver/61/chat/client/client.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/erich/!svn/ver/57/chat/client/main.c
+END
